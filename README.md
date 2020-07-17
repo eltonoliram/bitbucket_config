@@ -2,7 +2,7 @@
 step by step automatic configuration for bitbucket ssh keys generation 
 
 a) via git bash, executar comandos:
-git clone https://gist.github.com/3442828a038fbbf5c4b7.git ~/gitdotfiles
+git clone https://gist.github.com/3442828a038fbbf5c4b7.git ~/gitdotfiles \n
 cd ~/gitdotfiles
 sh install.sh -f
 
